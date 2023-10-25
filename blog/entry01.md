@@ -13,4 +13,4 @@ One skill that I learned during this experience is consideration. While deciding
 ### How to Google 
 Another skill that I learned during this experience is How to Google. During my research about interior design, many articles were showing up in Google. To find the articles that were right for me I had to look at the titles. And to get information on interior design technology it was helpful to google "technology in interior design."
 ## Summary
-To conclude, I am really excited to continue working on this project. And my next step is to brainstorm possible solutions.
+To conclude, I am really excited to continue working on this project. My next step is to brainstorm possible solutions.
