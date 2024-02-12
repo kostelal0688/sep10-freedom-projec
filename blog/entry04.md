@@ -1,5 +1,5 @@
-# Entry 4
-##### X/X/XX
+# Entry 4 (Choosing a Tool)
+##### 2/12/24
 
 Text
 
