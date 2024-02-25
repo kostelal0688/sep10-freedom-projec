@@ -11,8 +11,10 @@ I am currently in step 4 of the engineering design process, where the goal is to
 ## Skills
 Some skills that I’ve learned from working on this blog are **how to learn,** and **consideration**
 
+## How to learn
+
+## Consideration
+
 ## Summary
+I am excited to continue working on this project. And our next step is to .
 
-[Previous](entry03.md) | [Next](entry05.md)
-
-[Home](../README.md)
