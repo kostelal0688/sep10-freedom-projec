@@ -12,7 +12,7 @@ I am currently in step 4 of the engineering design process, where the goal is to
 Some skills that I’ve learned from working on this blog are **how to learn,** and **consideration**
 
 ### How to learn
-
+A skill I learned during this experience is How to Learn because I had to learn on my own to use different tools so that I could choose one.
 ### Consideration
 Another skill I learned while working on this part of the project is consideration. 
 ## Summary
