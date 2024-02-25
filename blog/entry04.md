@@ -1,7 +1,7 @@
 # Entry 4 (Choosing a Tool)
 ##### 2/12/24
 ## Context 
-
+During this part of our year-long project, we had to tinker and research many different tools so we could choose the one we most liked. The tool that I have chosen to use for the project is jQuery. I was also considering other tools like Aframe or Jekyll but I chose jQuery because I was more comfortable while tinkering with it. I tinkered with jQuery by using tutorials and trying to code in my ide. To tinker with my tool I followed the tutorial on [W3Schools](https://www.w3schools.com/jquERy/default.asp), I read a lot of information about jQuery and tried the "try it yourself" examples.
 
 ## Engineering Design Process
 
