@@ -10,11 +10,10 @@ In addition, to understand more about jQuery I used the [jQuery repo](https://gi
 I am currently in step 4 of the engineering design process, where the goal is to plan the most promising solution. This part was more about planing which tool we will use for our project. The next step of the engineering design process is to create a prototype.
 ## Skills
 Some skills that I’ve learned from working on this blog are **how to learn,** and **consideration**
-
 ### How to learn
-A skill I learned during this experience is How to Learn because I had to learn on my own to use different tools so that I could choose one.
+A skill I learned during this experience is How to Learn because I had to learn how to use different tools on my own. There were many different tool and to choose one you need to be sure that you understand and feel comfortable with the tool.  
 ### Consideration
-Another skill I learned while working on this part of the project is consideration. 
+Another skill I learned while working on this part of the project is consideration.
 ## Summary
 I am excited to continue working on this project. And our next step is to create a prototype.
 
