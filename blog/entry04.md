@@ -14,7 +14,7 @@ Some skills that I’ve learned from working on this blog are **how to learn,** 
 ### How to learn
 
 ### Consideration
-
+Another skill I learned while working on this part of the project is consideration. 
 ## Summary
 I am excited to continue working on this project. And our next step is to create a prototype.
 
