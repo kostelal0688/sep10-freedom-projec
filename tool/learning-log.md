@@ -1,6 +1,6 @@
 # Tool Learning Log
 
-Tool: **jQuery**
+**jQuery**
 
 ---
 
