@@ -9,6 +9,7 @@
 * [jQuery Examples](https://www.quackit.com/jquery/examples/)
     *  Code snippets for jQuery
     *  Tried jQuery animations
+*
 
 
 <!-- 
