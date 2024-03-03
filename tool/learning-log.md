@@ -7,7 +7,8 @@
     * Was helpful in learning selectors, ajax, effects and animations
     * Followed through in jsbin
 * [jQuery Examples](https://www.quackit.com/jquery/examples/)
-    *  Code snippets for jQuery 
+    *  Code snippets for jQuery
+    *  Tried jQuery animations
 
 
 <!-- 
