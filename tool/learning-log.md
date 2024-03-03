@@ -13,6 +13,11 @@
     * Git cloned into my ide
 *  [W3Schools](https://www.w3schools.com/jquERy/default.asp)
    *  I read a lot of information about jQuery and tried the "try it yourself" examples.
+*  Next Steps
+    * Continue learning more about jQuery 
+         *   Start on the Freedom Project
+ 
+
    
 
 
