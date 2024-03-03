@@ -9,7 +9,7 @@
 * [jQuery Examples](https://www.quackit.com/jquery/examples/)
     *  Code snippets for jQuery
     *  Tried jQuery animations
-*[jQuery Github repo](https://github.com/jquery/jquery?tab=readme-ov-file)
+* [jQuery Github repo](https://github.com/jquery/jquery?tab=readme-ov-file)
     * Git cloned into my ide
 * 
 
