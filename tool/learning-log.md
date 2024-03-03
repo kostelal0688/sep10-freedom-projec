@@ -5,7 +5,7 @@
 ---
 
 3/3/24:
-* (jQuery Tutorial #1 - jQuery Tutorial for Beginners)[https://www.youtube.com/watch?v=hMxGhHNOkCU]
+* [jQuery Tutorial #1 - jQuery Tutorial for Beginners](https://www.youtube.com/watch?v=hMxGhHNOkCU)
 
 X/X/X:
 * Text
