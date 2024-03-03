@@ -11,7 +11,9 @@
     *  Tried jQuery animations
 * [jQuery Github repo](https://github.com/jquery/jquery?tab=readme-ov-file)
     * Git cloned into my ide
-* 
+*  [W3Schools](https://www.w3schools.com/jquERy/default.asp)
+   *  I read a lot of information about jQuery and tried the "try it yourself" examples.
+   
 
 
 <!-- 
