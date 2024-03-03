@@ -5,9 +5,9 @@
 3/3/24:
 * Watched this 20 minutes video[jQuery Crash Course [1] - Intro & Selectors](https://www.youtube.com/watch?v=3nrLc_JOF7k)
     * Was helpful in learning selectors, ajax, effects and animations
-
-X/X/X:
-* Text
+    * Followed through in jsbin
+* [jQuery Examples](https://www.quackit.com/jquery/examples/)
+    *  
 
 
 <!-- 
