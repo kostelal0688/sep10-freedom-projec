@@ -20,7 +20,7 @@
            
 3/4/24
 
-*
+*[How jQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/)
    
 
 
