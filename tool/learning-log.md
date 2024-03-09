@@ -23,8 +23,8 @@
 * [How jQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/)
   * This is a basic tutorial, designed to help get started using jQuery.
 *
-  *  Next Steps
-    * Continue learning more about jQuery 
+    *  Next Steps
+        * Continue learning more about jQuery 
    
 
 
