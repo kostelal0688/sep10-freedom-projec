@@ -28,7 +28,9 @@
   * Followed through in jsbin
       * Hepful in hidding text
 * [jQuery Tutorial](https://www.geeksforgeeks.org/jquery-tutorial/)
-   * Helps in understanding the purpose of jQuery 
+   * Helps in understanding the purpose of jQuery
+* [jQuery Documentation](https://devdocs.io/jquery/)
+  * Has all jQuery code and what it does
 * Next Steps
   * Continue learning more about jQuery 
    
