@@ -27,7 +27,7 @@
 * [Watched this 6 minutes video](https://www.youtube.com/watch?v=JjIvF0yikGU)
   * Followed through in jsbin
 * Next Steps
- * Continue learning more about jQuery 
+  * Continue learning more about jQuery 
    
 
 
