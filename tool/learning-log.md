@@ -22,7 +22,10 @@
 
 * [How jQuery Works](https://learn.jquery.com/about-jquery/how-jquery-works/)
   * This is a basic tutorial, designed to help get started using jQuery.
-*
+*[The Best jQuery Examples](https://www.freecodecamp.org/news/the-best-jquery-examples/)
+  * Code Examples for jQuery
+* [Watched this 6 minutes video](https://www.youtube.com/watch?v=JjIvF0yikGU)
+  * Followed through in jsbin
     *  Next Steps
         * Continue learning more about jQuery 
    
