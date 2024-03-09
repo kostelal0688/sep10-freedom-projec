@@ -26,6 +26,9 @@
   * Code Examples for jQuery
 * [Watched this 6 minutes video](https://www.youtube.com/watch?v=JjIvF0yikGU)
   * Followed through in jsbin
+      * Hepful in hidding text
+* [jQuery Tutorial](https://www.geeksforgeeks.org/jquery-tutorial/)
+   * Helps in understanding the purpose of jQuery 
 * Next Steps
   * Continue learning more about jQuery 
    
