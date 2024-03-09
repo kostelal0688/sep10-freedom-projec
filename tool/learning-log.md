@@ -31,6 +31,9 @@
    * Helps in understanding the purpose of jQuery
 * [jQuery Documentation](https://devdocs.io/jquery/)
   * Has all jQuery code and what it does
+* [Khan Academy jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-intro/v/what-is-jquery)
+  * Watched videos
+  * Did the challange 
 * Next Steps
   * Continue learning more about jQuery 
    
