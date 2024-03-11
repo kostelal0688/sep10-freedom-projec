@@ -45,7 +45,8 @@
   * Talks about jQuery selectors
 * [jQuery Tutorial](https://www.tutorialspoint.com/jquery/index.htm)
   * Followed through and tried to edit the examples
-*
+* [Eatched this 8 minutes jQuery video](https://www.youtube.com/watch?v=hMxGhHNOkCU)
+  * Followed through in jsbin
 * Next Steps
   * Continue learning more about jQuery
  
