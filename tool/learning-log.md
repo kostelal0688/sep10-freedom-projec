@@ -35,7 +35,20 @@
   * Watched videos
   * Did the challange 
 * Next Steps
-  * Continue learning more about jQuery 
+  * Continue learning more about jQuery
+ 
+3/11/24
+
+* [jQuery Best Practices](https://greena13.github.io/blog/2020/12/05/jquery-best-practices/)
+  * Notes about jQuery elements
+* [Free Code Camp Article](https://www.freecodecamp.org/news/the-best-jquery-examples/)
+  * Talks about jQuery selectors
+* [jQuery Tutorial](https://www.tutorialspoint.com/jquery/index.htm)
+  * Followed through and tried to edit the examples
+*
+* Next Steps
+  * Continue learning more about jQuery
+ 
    
 
 
