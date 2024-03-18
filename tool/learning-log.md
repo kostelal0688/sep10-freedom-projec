@@ -58,6 +58,7 @@
        * $('.element').click //OnClick
        * $('.element').toggleClass //Class manipulation
        * $.ajax //For ajax
+* 
  
    
 
