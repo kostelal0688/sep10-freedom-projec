@@ -50,6 +50,15 @@
 * Next Steps
   * Continue learning more about jQuery
  
+3/18/24
+* [Watched this 10 minute video](https://www.youtube.com/watch?v=YprBzDEg7bc)
+   * Talks about:
+       * $(document).ready //Waiting for document to load
+       * $('.className') //Elements selection
+       * $('.element').click //OnClick
+       * $('.element').toggleClass //Class manipulation
+       * $.ajax //For ajax
+ 
    
 
 
