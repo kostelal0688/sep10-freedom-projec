@@ -65,6 +65,8 @@
    * jQuery Basics
    * jQuery Ajax
    * jQuery Built-in Methods
+ * [jQuery Tutorial](https://www.javatpoint.com/jquery-tutorial)
+   * Tried examples
 * Next Steps
   * Continue learning more about jQuery
  
