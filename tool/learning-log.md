@@ -61,7 +61,7 @@
 * [Read this article](https://www.hostinger.com/tutorials/what-is-jquery/)
    * Important jQuery Features
    * jQuery Examples
-*[Learn jQuery using Step-by-Step Tutorials](https://www.tutorialsteacher.com/jquery)
+* [Learn jQuery using Step-by-Step Tutorials](https://www.tutorialsteacher.com/jquery)
    * jQuery Basics
    * jQuery Ajax
    * jQuery Built-in Methods
