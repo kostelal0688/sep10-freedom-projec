@@ -73,8 +73,8 @@
 3/25/24 
 *  [Watched this 20 minutes video](https://www.youtube.com/watch?v=VlWsJHsVb-E)
   *  Followed through in jsbin
-  *  Talks about:
-     *   mouse form and input events
+     *  Talks about:
+        *   mouse form and input events
 * [jQuert UI](https://jqueryui.com/)
   *  jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.
 * Next Steps
