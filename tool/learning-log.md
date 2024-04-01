@@ -77,6 +77,9 @@
         *   mouse form and input events
 * [jQuert UI](https://jqueryui.com/)
   *  jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.
+* [jQuery Guides](https://moodledev.io/docs/guides/javascript/jquery)
+* [jQuery Cheat sheet](https://oscarotero.com/jquery/)
+  *  Has all selectors, effects, ajax, etc
 * Next Steps
   * Learn about jQuery Fade In/Fade Out
  
