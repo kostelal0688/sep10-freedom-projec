@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<title>My Example</title>
+
+<style>
+  div {
+    background: ;
+    color: white;
+    width: 200px;
+    padding: 20px;
+  }
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+  $( function() {
+    $( "div" ).click(function() {
+      var theColor = $( this ).css( "background-color" );
+      $( "h1" ).html( theColor );
+    });
+  });
+</script>
+
+<div>Click me to find out what my (computed) background color is!</div>
+<h1>Background color is...</h1>
