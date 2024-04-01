@@ -75,6 +75,10 @@
   *  Followed through in jsbin
   *  Talks about:
      *   mouse form and input events
+* [jQuert UI](https://jqueryui.com/)
+  *  jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.
+* Next Steps
+  * Learn about jQuery Fade In/Fade Out
  
    
 
