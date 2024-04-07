@@ -84,7 +84,22 @@
   * Learn about jQuery Fade In/Fade Out
  
 4/3/24 - 4/5/24
- 
+
+4/3/24
+* Sliding effect on elements
+   * jQuery has the following slide methods:
+      * slideDown()
+      * slideUp()
+      * slideToggle()
+   * [jQuery Effects - Sliding Tutorial](https://www.w3schools.com/jquery/jquery_slide.asp)
+      * Tried the examples and exercises
+    
+4/4/24
+
+
+
+4/5/24
+
    
 
 
