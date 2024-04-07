@@ -84,7 +84,6 @@
   * Learn about jQuery Fade In/Fade Out
  
 4/3/24 - 4/5/24
-
 4/3/24
 * Sliding effect on elements
    * jQuery has the following slide methods:
@@ -93,16 +92,28 @@
       * slideToggle()
    * [jQuery Effects - Sliding Tutorial](https://www.w3schools.com/jquery/jquery_slide.asp)
       * Tried the examples and exercises
-    
+   * [jQuery Tutorial 26: slideUp(), slideDown() and slideToggle()](https://www.youtube.com/watch?v=2VbTTGxmuf0)
+      * Watched this 9 minute video
+      * Learn what are slideUp(), slideDown(), and slideToggle() methods in jQuery and how to use them with a callback function.
 4/4/24
-
-
-
+  * jQuery animate() method to add smooth scrolling to links
+      * [jQuery animate() Method](https://www.w3schools.com/jquery/eff_animate.asp)
+        * Tried the "Add smooth scrolling to page anchors" try it yourself
+      * [jQuery Smooth Scroll to Anchor Using animate()](https://www.youtube.com/watch?v=_EGO-d9H184)
+        * Watched 15 minutes of this video
 4/5/24
+  * jQuery selectors like contains() selectors.
+  * [jQuery Selectors](https://www.w3schools.com/jquery/jquery_ref_selectors.asp)
+     * Read through each selector
+  * [jQuery Selectors](https://www.javatpoint.com/jquery-selectors)
+     * Tried the test it now
+  * [jQuery Selectors video](https://www.youtube.com/watch?v=TBVpCKNuPtw)
+     * Watched this 7 minutes video.
+  * Next Steps
+      * Wireframe and build the MVP of the website.
 
+ 
    
-
-
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
