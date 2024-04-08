@@ -1,6 +1,5 @@
 # Entry 5 (Learning my tool)
 ##### 4/8/24
-
 ## Context 
 
 ## Skills 
