@@ -1,7 +1,7 @@
-# Entry 5
+# Entry 5 (Learning my tool)
 ##### 4/8/24
 
-### Context 
+## Context 
 
 [Previous](entry04.md) | [Next](entry06.md)
 
