@@ -21,6 +21,6 @@
 * ##### jQuery
   * Slide down when clicking on the consumer software/hardware
 
-#### Beyond MVP
+## Beyond MVP
 * More images
 * Make the inforamtion appear as scrolling down 
