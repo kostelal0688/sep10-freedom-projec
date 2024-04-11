@@ -12,6 +12,11 @@
 * [Text](URL)
 
 ## Timeline
+MVP due on 5/1 which are the bare minimum to do:
+  * Add a navbar and carousel this week 4/14
+  * Add the context and consumer software + hardware next week 4/15-4/21
+  * Future of interior design during break week 4/22-4/25
+  * Look over the website fix whatever needs to be fixed 4/26-4/30
 
 ## MVP
 * ##### Bootstrap Components
