@@ -14,11 +14,12 @@
 ## Timeline
 
 #### MVP
-
-* Task/Timeline
-
----
+* ##### Bootstrap Components
+  *  Navbar
+  *  Carousel
+* ##### jQuery
+  * Slide down when clicking on the consumer software/hardware
 
 #### Beyond MVP
-
-* Task
+* More images
+* Make the inforamtion appear as scrolling down 
