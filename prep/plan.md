@@ -28,4 +28,5 @@ MVP due on 5/1 which are the bare minimum to do:
 
 ## Beyond MVP
 * More images
-* Make the inforamtion appear as scrolling down 
+* Make the inforamtion appear as scrolling down
+* More components
