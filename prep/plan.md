@@ -11,7 +11,7 @@
 * #E1D7C6
 
 #### Fonts
-* [Text](URL)
+* [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab)
 
 ## Timeline
 MVP due on 5/1 which are the bare minimum to do:
