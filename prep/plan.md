@@ -6,7 +6,9 @@
   
 ## Design
 #### Colors
-* `#ABC123`
+* E3E1D9
+* F2EFE5
+* E1D7C6
 
 #### Fonts
 * [Text](URL)
