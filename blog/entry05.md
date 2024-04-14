@@ -32,6 +32,7 @@ The code below is an example of what I made, it an animation using jQuery where 
 
 ```
 ## Skills 
+Some skills that I’ve learned from working on this blog are **how to learn**, **how to google**, and **time management**.
 ### How to learn
 
 ### How to Google
