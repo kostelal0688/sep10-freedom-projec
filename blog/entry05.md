@@ -32,6 +32,9 @@ The code below is an example of what I made, it an animation using jQuery where 
 
 ```
 ## Skills 
+How to learn
+How to Google
+Time management
 
 ## Summary 
 
