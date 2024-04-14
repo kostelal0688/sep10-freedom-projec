@@ -36,7 +36,7 @@ Some skills that I’ve learned from working on this blog are **how to learn**, 
 ### How to learn
 A skill I learned during this experience is How to Learn because I had to learn jQuery by myself. We had to learn and try making something on our own so that we know how to use our tool on the project.
 ### How to Google
-
+Another skill I learned while working on this part of the project is How to Google because to learn the tool I used many websites. I had to learn to find the most useful websites about jQuery for me.
 ### Time management
 
 ## Summary 
