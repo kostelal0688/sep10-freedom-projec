@@ -39,3 +39,4 @@ The code below is an example of what I made, it an animation using jQuery where 
 ### Time management
 
 ## Summary 
+I am excited to continue working on the freedom project. Our next step is to finish the MVP.
