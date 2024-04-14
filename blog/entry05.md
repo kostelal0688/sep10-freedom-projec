@@ -38,6 +38,6 @@ A skill I learned during this experience is how to learn because I had to learn 
 ### How to Google
 Another skill I learned while working on this part of the project is how to google because to learn the tool I used many websites. I had to learn to find the most useful websites about jQuery for me.
 ### Time management
-I also learned time managemant because we had to do learning logs every week so I had to find time each week to do th learning logs while also having theater reharsals and other homeworks.
+I also learned time managemant because we had to do learning logs every week. So I had to find time each week to do the learning logs while also having theater reharsals mosty everyday afterschool because we had the show this month and other homeworks.
 ## Summary 
 I am excited to continue working on the freedom project. Our next step is to finish the MVP.
