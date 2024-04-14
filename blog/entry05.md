@@ -39,7 +39,3 @@ The code below is an example of what I made, it an animation using jQuery where 
 ### Time management
 
 ## Summary 
-
-[Previous](entry04.md) | [Next](entry06.md)
-
-[Home](../README.md)
