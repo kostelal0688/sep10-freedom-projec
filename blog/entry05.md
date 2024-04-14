@@ -24,7 +24,9 @@ In this part of our year-long project, we had to tinker with the tool we previou
 <button id="start">Start Animation!</button>
 <button id="stop">Stop Animation!</button>
 
-<div id="animation">Animation</div> ```
+<div id="animation">Animation</div>
+
+```
 ## Skills 
 
 ## Summary 
