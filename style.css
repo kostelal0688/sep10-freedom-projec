@@ -1,0 +1,19 @@
+* {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-style: bold;
+
+}
+h2 {
+  text-align: center;
+}
+ul {
+  padding: 10px;
+}
+.info {
+  background: #F2EFE5;
+  color: white;
+}
+.carousel-caption {
+  font-size: 50px !important;
+}
