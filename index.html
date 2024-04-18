@@ -11,6 +11,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script>
+    $(document).ready(function(){
+      // $("#flip1").click(function(){
+      //   $("#panel1").slideToggle("slow");
+      // });
+      // $("#flip2").click(function(){
+      //   $("#panel2").slideToggle("slow");
+      // });
+    });
+    </script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -58,7 +68,7 @@
                 <img src="design.webp" alt="Los Angeles" style="width:100%; height: 700px;">
                 <div class="carousel-caption">
                   <h1>Interior Design</h1>
-                  <h3>Learn more about the future of interior design</h3>
+                  <h4>Learn more about the future of interior design</h4>
                 </div>
               </div>
 
@@ -66,7 +76,7 @@
                 <img src="img.jpg" alt="Chicago" style="width:100%; height: 700px;">
                 <div class="carousel-caption">
                   <h1>Interior Design</h1>
-                  <h3>Learn more about the future of interior design</h3>
+                  <h4>Learn more about the future of interior design</h4>
                 </div>
               </div>
 
@@ -74,7 +84,7 @@
                 <img src="img2.jpg" alt="New york" style="width:100%;  height: 700px;">
                 <div class="carousel-caption">
                   <h1>Interior Design</h1>
-                  <h3>Learn more about the future of interior design</h3>
+                  <h4>Learn more about the future of interior design</h4>
                 </div>
               </div>
             </div>
@@ -92,7 +102,7 @@
         </div>
 
         <div class="info" id= "info.">
-          <h2>Context</h2>
+          <h1>Context</h1>
                   <ul>
                     <li>Interior design helps us live more aesthetically pleasing, and contemporary lives. It raises the functionality in our lives and introduces us to beauty and comfort. Additionally, interior design and architecture of a place are what give the building its character. Interior design is what transforms four walls into dynamic space that brims with a life of its own.
                     </li>
@@ -101,6 +111,20 @@
                   </ul>
                  </div>
               </div>
+
+            <div class="contanier">
+              <div class="row">
+                <div class="col-md-6">
+                  <div id="flip1">Click to slide the panel down or up</div>
+                  <div id="panel1">Hello world!</div>
+                </div>
+                <div class="col-md-6">
+                  <div id="flip2">Click to slide the panel down or up</div>
+                  <div id="panel2">Hello world!</div>
+                </div>
+              </div>
+            </div>
+
 
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>

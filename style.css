@@ -2,18 +2,36 @@
   font-family: "Roboto Slab", serif;
   font-optical-sizing: auto;
   font-style: bold;
-
-}
-h2 {
-  text-align: center;
 }
 ul {
-  padding: 10px;
+  padding: px;
 }
 .info {
-  background: #F2EFE5;
+  background: #c9bda7;
   color: white;
+  margin: 10px;
+  padding: 10px;
 }
-.carousel-caption {
-  font-size: 50px !important;
+.info h1{
+  text-align: center;
 }
+.info ul{
+  font-size: 20px;
+}
+.carousel-caption h1 {
+  font-size: 60px !important;
+}
+  #panel, #flip {
+    padding: 5px;
+    text-align: center;
+    border: solid 1px;
+    background-color: #c9bda7;
+    color: white;
+
+  }
+  #flip {
+     font-size: 30px;
+  }
+  #panel {
+    padding: 50px;
+  }
