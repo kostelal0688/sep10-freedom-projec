@@ -13,12 +13,12 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script>
     $(document).ready(function(){
-      // $("#flip1").click(function(){
-      //   $("#panel1").slideToggle("slow");
-      // });
-      // $("#flip2").click(function(){
-      //   $("#panel2").slideToggle("slow");
-      // });
+       $("#flip1").click(function(){
+        $("#panel1").slideToggle("slow");
+      });
+      $("#flip2").click(function(){
+         $("#panel2").slideToggle("slow");
+       });
     });
     </script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
@@ -34,21 +34,21 @@
     </head>
     <body>
         <!-- HTML -->
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="#">Interior Design</a>
+        <nav class="navbar navbar-expand-sm navbar-light bg-light">
+            <a class="navbar-brand" href="#myCarousel">Interior Design</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav">
                 <li class="nav-item active">
-                  <a class="nav-link" href="#">Content <span class="sr-only">(current)</span></a>
+                  <a class="nav-link" href="#info.">Content <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#"> Consumer Software/Hardware</a>
+                  <a class="nav-link" href="#panel1"> Consumer Software/Hardware</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Future</a>
+                  <a class="nav-link" href="#info.2">Future</a>
                 </li>
               </ul>
             </div>
@@ -114,16 +114,103 @@
 
             <div class="contanier">
               <div class="row">
-                <div class="col-md-6">
-                  <div id="flip1">Click to slide the panel down or up</div>
-                  <div id="panel1">Hello world!</div>
+                <div class="col-md-6 col-sm-12">
+                  <div id="flip1">Consumer software</div>
+                  <div id="panel1">
+                    <ul>
+                      <li>
+                        One of the main advantages of interior design software is the ability to visualize design ideas in 3D. This allows users to see exactly what their space will look like before any work is done, which can be useful when trying to visualize the final result of a renovation or redesign. Here are some examples of software in interior design:
+                       </li>
+                          <ul>
+                           <li>SketchUp- a 3D modeling program used for architecture and interior design</li>
+                           <li>Planner 5D- its a program where you are able to start from scratch or use a template which is perfect for throwing together a quick floor plan if you don’t have the time or don’t want to make a complex design.
+                           </li>
+                           <li>
+                            Floorplanner-  lets you design and decorate your space in 2D and 3D, which can be done online and without having to download any software.
+                           </li>
+                           <li>
+                            SmartDraw- is another powerful tool in the world of floor planning.
+                           </li>
+                           <li>
+                            HomeByMe-create your floor plan in 2D and furnish your home in 3D with real brand named furniture.
+                           </li>
+                           <li>
+                            Roomstyler 3D Home Planner- its really similar to homebyme but of all the home design tools, this one has a tutorial video available for every question you might have.
+                           </li>
+                           <li>Dulux Visualiser- is a very easy to use app for iOS and Android that transforms the paint colors of any room. All you do is tap on the area you want to see in a different shade, then drop down to the paint chart menus, choose the one you like and see immediately how it looks.
+                          </li>
+                          <li>Homebase Kitchen Planner & Design Tool - is a really easy to use online kitchen planner that allows you to see in an instant the transformation of colors and patterns for walls, and work surfaces.
+                          </li>
+                          <ul>
+                    </ul>
                 </div>
-                <div class="col-md-6">
-                  <div id="flip2">Click to slide the panel down or up</div>
-                  <div id="panel2">Hello world!</div>
+              </div>
+                <div class="col-md-6 col-sm-12">
+                  <div id="flip2">Consumer hardware</div>
+                  <div id="panel2">
+                    <ul>
+                      <li>
+                        Here are some of the hardware in interior design:
+                      </li>
+                         <ul>
+                          <li>Laser Tape Measure-is an alternative to a traditional tape measure that makes the process of measurement more convenient.
+                          </li>
+                          <li>Graphic Tablet-It is a compact and portable device, which enables them to sketch no matter where they are.</li>
+                          <li>Stylus pen - is a stylish gadget that is compatible with touch screen devices including iPad, iPhone, Android tablets and phones. It is useful to quickly sketch on a digital medium.
+                          </li>
+                          <li>3D pen -  it assists the architects to think in the third dimension. Besides cutting on the time elapsed to make a model, it also reduces the labor costs, thus purchasing this gadget is an investment to make.
+                          </li>
+                          <li>VR goggles - it has the potential to convince a client that the integration of a concept into a finished blueprint is feasible. Therefore, it can assist in selling an idea along with showcasing it.
+                          </li>
+                          <li>Portable color digitizer - interior designers use different colors in their presentations and plan for finishes of surfaces in numerous colors. This gadget is helpful for them because it allows one to pick a color from nature or built surfaces and later use it in their drawings.
+                          </li>
+                        <ul>
+                    </ul>
+                <img id="hardware" src="img.png" alt="hardware" width="295">
+                  </div>
                 </div>
               </div>
             </div>
+
+            <div class="info2" id= "info.2">
+              <h1>Future of Interior Design</h1>
+                      <ul>
+                        <li>An app that while you design your house and furniture you could see the price of everything and it takes you to the website where to buy the furniture. This would make it easier for people to find things they want and that they can afford. And this would be a website that all brands of furniture can use. </li>
+                        <li>AI for Interior Designers</li>
+                           <ul>
+                            <li>AI cannot replace Interior Designers as a whole as the process is personal and creative, so human connection and interaction is a must. However, AI can serve as a helping hand to interior designers. AI will push creative boundaries, providing unmatched personalization and efficiency.
+                            </li>
+                            <li>One of the main benefits of AI in interior design is the potential to make the design process more efficient and cost-effective.</li>
+                            <li>As technology continues to evolve, it is expected that AI-powered interior design tools will become even more advanced and user-friendly. Some potential developments include:</li>
+                            <ul>
+                               <li>Improved accuracy and realism in generated designs</li>
+                               <li>Integration with virtual and augmented reality technologies</li>
+                               <li>Real-time design updates based on user feedback</li>
+                               <li>Automatic sourcing of furniture and accessories</li>
+                              </ul>
+                           </ul>
+                      </ul>
+                      <ul>
+                        <li>Virtual Reality </li>
+                        <ul>
+                          <li>VR is reshaping the future of 3D interior design, taking it to a whole new level. Designers can now walk their clients through all the living spaces they’ve created, enabling them to really feel the interiors. They can get a clear sense of scale, and even test out numerous designs on their own with a simple tap of a button.
+                          </li>
+                          <li>VR is not yet fully accessible to the public, as it’s still expensive, but that’s where AR comes in. Augmented Reality enables interior designers to blend the virtual and real worlds by overlaying virtual elements on top of physical features.
+                          </li>
+                          <li>VR will take over completely in the near future but, until then, interior experts can rely on AR to create outstanding designs.</li>
+                        </ul>
+                      </ul>
+                      <ul>
+                        <li>Smart Homes</li>
+                        <ul>
+                          <li>Smart homes have been around for some time, although they’re definitely not mainstream. If you don’t live in an extremely wealthy, tech-savvy society, chances are you haven’t physically come across a smart home yet.
+                          </li>
+                          <li>This is going to change in the near future, as full-blown smart homes have made it possible for interiors to become smarter. More and more people are now able to implement smart interior design into their standard homes.You may have various gadgets that make your home smarter, such as AI personal assistants, or various other connected devices.</li>
+                          <li>Smart interiors will soon come pre-built into regular homes, and they’ll only keep getting smarter. We’ll definitely see this trend becoming bigger quite soon.</li>
+                        </ul>
+                      </ul>
+                     </div>
+                  </div>
 
 
 
