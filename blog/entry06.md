@@ -14,6 +14,6 @@ Some skills that I’ve learned from working on this blog are **debugging, probl
 ### Time Management
 One skill I learned is time management, I had to follow a timeline to complete my MVP in time. I had to follow the tiemline since during spring break I was away for vacation and couldn't work on it as much so I had to have most of it done before break. 
 ## Summery 
-So far I am very excided with the restult of my MVP. Our next step is to go above the MVP.
+So far I am very excited with the restult of my MVP. Our next step is to go above the MVP.
 
 
