@@ -7,9 +7,12 @@ In this part of our year long project we had to create an mvp of our website, wh
 I am currently in step 5 of the engineering design process, where the goal is to create a prototype. This part was more about vreating the MVP of our project. The next step of the engineering design process is to improve as needed.
 ## Skills 
 Some skills that I’ve learned from working on this blog are **debugging, problem decomposition,** and **time management**
-### How to Google 
+### Debugging
+
+### Problem Decomposition 
+
+### Time Management
+
 ## Summery 
 
-[Previous](entry05.md) | [Next](entry07.md)
 
-[Home](../README.md)
