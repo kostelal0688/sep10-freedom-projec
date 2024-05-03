@@ -5,7 +5,8 @@ In this part of our year long project we had to create an mvp of our website, wh
 
 While building the websites I encountered many challanges, for example I couldn't get the carousel to have text inside. I try many different ways but it couldn't work. Then, I found a carousel with text in W3Schools which helped me build mine. This the code I had to do for the carousel to work with text:
 
-``` <div id="myCarousel" class="carousel slide" data-ride="carousel">
+```
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">
               <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
