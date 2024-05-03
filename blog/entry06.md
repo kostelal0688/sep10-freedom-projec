@@ -54,6 +54,21 @@ While building the websites I encountered many challanges, for example I couldn'
         </div>
 ```
 
+Another challenge I faced was getting two jQuery slides to work side by side. In the beginning it didn't work but I had to change the ids for it to work. This is the code I used in the head of the code:
+
+```
+ <script>
+    $(document).ready(function(){
+       $("#flip1").click(function(){
+        $("#panel1").slideToggle("slow");
+      });
+      $("#flip2").click(function(){
+         $("#panel2").slideToggle("slow");
+       });
+    });
+    </script>
+```
+
 ## Engineering Design Process
 I am currently in step 5 of the engineering design process, where the goal is to create a prototype. This part was more about vreating the MVP of our project. The next step of the engineering design process is to improve as needed.
 
