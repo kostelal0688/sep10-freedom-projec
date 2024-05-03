@@ -12,7 +12,7 @@ Some skills that I’ve learned from working on this blog are **debugging, probl
 ### Problem Decomposition 
 
 ### Time Management
-One skill I learned is time management because I had to follow a timeline to complete my MVP in time.
+One skill I learned is time management, I had to follow a timeline to complete my MVP in time. I had to follow the tiemline since during spring break I was away for vacation and couldn't work on it as much so I had to have most of it done before break. 
 ## Summery 
 
 
