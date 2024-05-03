@@ -1,9 +1,9 @@
 # Entry 6 (Completing MVP)
 ##### 5/1/24
 ## Context
-In this part of our year long project we had to create an mvp of our website, which is having a working websites. First, we had to make two wideframe one for mobil view and another for computer view. Then we had to make a plan of what components, colors, fonts we were using and a timeline of when we are completing each thing. This helped me a lot while working on the mvp by having everything ready and knowing if I was behind or not. It helped me understand the importance of a plan. To make this websites I used a navbar, a carousel,containers/grids/ columns, and jQuery. 
+In this part of our year-long project, we had to create an MVP of our website, which is having a working website. First, we had to make two wireframes one for mobile view and another for computer view. Then we had to make a plan of what components, colors, and fonts we were using and a timeline of when we are completing each thing. This helped me a lot while working on the MVP by having everything ready and knowing if I needed to catch up. It helped me understand the importance of a plan. I used a navbar, a carousel, containers/grids/ columns, and jQuery to make this website.
 
-While building the websites I encountered many challanges, for example I couldn't get the carousel to have text inside. I try many different ways but it couldn't work. Then, I found a carousel with text in W3Schools which helped me build mine. This the code I had to do for the carousel to work with text:
+While building the websites I encountered many challenges, for example, I couldn't get the carousel to have text inside. I tried many different ways but it couldn't work. Then, I found a carousel with text in W3Schools which helped me build mine. This is the code I had to do for the carousel to work with text:
 
 ```
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -54,7 +54,7 @@ While building the websites I encountered many challanges, for example I couldn'
         </div>
 ```
 
-Another challenge I faced was getting two jQuery slides to work side by side. In the beginning it didn't work but I had to change the ids for it to work. This is the code I used in the head of the code:
+Another challenge I faced was getting two jQuery slides to work side by side. In the beginning, it didn't work but I had to change the ids for it to work. This is the code I used in the head of the code:
 
 ```
  <script>
@@ -68,23 +68,43 @@ Another challenge I faced was getting two jQuery slides to work side by side. In
     });
     </script>
 ```
-
+And this is my code in the body of html:
+```
+ <div class="contanier">
+              <div class="row">
+                <div class="col-md-6 col-sm-12">
+                  <div id="flip1">Consumer software</div>
+                  <div id="panel1">
+                    <ul>
+                      <li>info</li>
+                     </ul>
+                </div>
+              </div>
+                <div class="col-md-6 col-sm-12">
+                  <div id="flip2">Consumer hardware</div>
+                  <div id="panel2">
+                     <ul>
+                      <li>info</li>
+                  </div>
+                </div>
+              </div>
+            </div>
+```
 ## Engineering Design Process
-I am currently in step 5 of the engineering design process, where the goal is to create a prototype. This part was more about vreating the MVP of our project. The next step of the engineering design process is to improve as needed.
+I am currently in step 5 of the engineering design process, where the goal is to create a prototype. This part was more about creating the MVP of our project. The next step of the engineering design process is to improve as needed.
 
 ## Skills 
 Some skills that I’ve learned from working on this blog are **debugging, problem decomposition,** and **time management**
 
 ### Debugging
-A skill I learned was debugging since they were many errors while coding my MVP. For example, I couldn't get the jQuery slide to work and when I got the to work by changing their id, my CSS wasn't working. And I figured out that I had forgotten to change the id in the CSS too.
+A skill I learned was debugging since there were many errors while coding my MVP. For example, I couldn't get the jQuery slide to work and when I got them to work by changing their id, my CSS wasn't working. I figured out that I had forgotten to change the id in the CSS too.
 
 ### Problem Decomposition 
 Another skill I learned was problem decomposition because while trying to create a carousel I couldn't get the carousel to have text inside it. So I have to break down the problem and try different ways. However, I ended up finding how to make it work from W3Schools. 
 
 ### Time Management
-One skill I learned is time management, I had to follow a timeline to complete my MVP in time. I had to follow the tiemline since during spring break I was away for vacation and couldn't work on it as much so I had to have most of it done before break. 
+One skill I learned is time management, I had to follow a timeline to complete my MVP in time. I had to follow the timeline since during spring break I was away for vacation and couldn't work on it as much so I had to have most of it done before break. 
 
 ## Summery 
-So far I am very excited with the restult of my MVP. Our next step is to go above the MVP by adding more components and fixing possible errors.
-
+So far I am very excited about the result of my MVP. Our next step is to go above the MVP by adding more components and fixing possible errors.
 
