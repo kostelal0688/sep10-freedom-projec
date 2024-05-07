@@ -34,7 +34,7 @@ MVP due on 5/1 which are the bare minimum to do:
 * More components
   
 ## Improvements from peers
-* - [Spacing between div element boxes]
+* -[]Spacing between div element boxes
 * Fix the image that is on the carousel and make it more responsive.
 * Remove the box shadow which appears when you click on the toggle-menu icon
 * Shorten the text just a bit or paraphrase it in a way that it can be short. 
