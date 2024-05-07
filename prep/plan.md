@@ -32,8 +32,10 @@ MVP due on 5/1 which are the bare minimum to do:
 * More images
 * Make the inforamtion appear as scrolling down
 * More components
-* Spacing between div element boxes
-* Remove the box shadow which appears when you click on the toggle-menu icon
+  
+## Improvements from peers
+* - [Spacing between div element boxes]
 * Fix the image that is on the carousel and make it more responsive.
+* Remove the box shadow which appears when you click on the toggle-menu icon
 * Shorten the text just a bit or paraphrase it in a way that it can be short. 
 
