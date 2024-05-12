@@ -3,14 +3,20 @@
   font-optical-sizing: auto;
   font-style: bold;
 }
+#myCarousel img {
+  object-fit: cover;
+  object-position: center;
+  height: 50vh;
+  overflow: hidden;
+}
 ul {
   padding: px;
 }
 .info {
   background: #c9bda7;
   color: white;
-  margin: 10px;
-  padding: 10px;
+  margin: 50px;
+  padding: 50px;
 }
 .info h1{
   text-align: center;
@@ -26,11 +32,12 @@ ul {
     border: solid 1px;
     background-color:	#c4c9a7;
     color: white;
-    margin: 10px;
-  padding: 10px;
+    margin: 50px;
+  padding: 50px;
   }
   #flip1, #flip2 {
      font-size: 30px;
+     padding: 20px;
   }
   #panel1,  #panel2 {
     padding: 50px;
@@ -43,14 +50,18 @@ ul {
   .info2 {
     background: #c9bda7;
     color: white;
-    margin: 10px;
-    padding: 10px;
+    margin: 50px;
+    padding: 50px;
   }
   .info2 h1 {
     text-align: center;
   }
   .info2 ul{
     font-size: 20px;
+  }
+  .item{
+    width: auto
+    height: auto
   }
 
 
