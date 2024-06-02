@@ -16,6 +16,6 @@ Some skills that I’ve learned from working on this blog are **communication**,
 ### Organization
 
 ## Summary
-To conclude,
+To conclude, I am very happy and proud of my website andpresentation.
 
 
