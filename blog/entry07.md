@@ -14,9 +14,9 @@ During this part of the poject I was at step 8 of the engineering design process
 ## Skills
 Some skills that I’ve learned from working on this blog are **communication**, and **organization**
 ### Communication
-
+A skill I learned while working on this part of the project is communication because I had to present my website to my peers. I had to learn to be a better public speaker.
 ### Organization
-
+Another skill I learned during this experience is organization. We had to make slides and an elevator pitch so I had to learn how to organized my ideas of what I woud say during the presentation and expo.
 ## Summary
 To conclude, I am very happy and proud of my website andpresentation.
 
